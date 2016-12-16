@@ -1,0 +1,38 @@
+{
+  "selectTemplate": "index",
+  "name": "index",
+  "null": "fMsoR1Dy-2zAfrQxlYU7Cxb1LWtPFk2Q1JSc",
+  "oldFilePath": "/index.html",
+  "block1": [
+    {
+      "id": "2",
+      "label": "Primary block 2"
+    }
+  ],
+  "abeEditor": "false",
+  "block2": [
+    {
+      "id": "1",
+      "label": "Secondary block 1"
+    }
+  ],
+  "abe_meta": {
+    "template": "index",
+    "link": "/index.html",
+    "date": "2016-12-16T18:03:14.683Z",
+    "latest": {
+      "date": "2016-12-16T18:03:14.683Z",
+      "abeUrl": "/index-abe-d20161216T180314683Z.html"
+    },
+    "status": "draft",
+    "draft": {
+      "latest": {
+        "date": "2016-12-16T18:03:14.683Z",
+        "abeUrl": "/index-abe-d20161216T180314683Z.html"
+      },
+      "date": "2016-12-16T18:03:14.683Z",
+      "abeUrl": "/index-abe-d20161216T180314683Z.html"
+    },
+    "complete": "100"
+  }
+}
