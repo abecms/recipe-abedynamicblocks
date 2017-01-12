@@ -1,0 +1,83 @@
+{{abe type="data" key="product2" source="select title, cover_273x273,cover_566x253,cover_273x546, description from /articles where `abe_meta.template`=`single-product`" desc="Select 5 products from this list" display="{{title}}" max-length="5" reload="true"}}
+<div class="row">
+  <div class="columns large-6">
+    <div class="row">
+          <div class="columns large-6">
+            <article class="single-product relative">
+              <div class="single-product__blocks-overlay">
+                <h3>{{product2.0.title}}</h3>
+                <hr/>
+                <p>
+                  Intense cinemmon.
+                  <br />Let's cook cookies and pies.
+                </p>
+                <a href="single-product.html" class="thai-button thai-button_black">Discover</a>
+              </div>
+              <img class="h-center" src="{{product2.0.cover_273x273}}" alt="" />
+              <i class="icon icon--timer icon-mustard absolute"></i>
+            </article>
+          </div>
+          <div class="columns large-6">
+            <article class="single-product relative">
+              <div class="single-product__blocks-overlay">
+                <h3>{{product2.1.title}}</h3>
+                <hr/>
+                <p>
+                  Intense cinemmon.
+                  <br />Let's cook cookies and pies.
+                </p>
+                <a href="single-product.html" class="thai-button thai-button_black">Discover</a>
+              </div>
+              <img class="h-center" src="{{product2.1.cover_273x273}}" alt="" />
+              <i class="icon icon--timer icon-mustard absolute"></i>
+            </article>
+          </div>
+          <div class="columns large-12">
+            <article class="single-product relative extended-horizontal">
+              <div class="single-product__blocks-overlay">
+                <h3>{{product2.2.title}}</h3>
+                <hr/>
+                <p>
+                  Intense cinemmon.
+                  <br />Let's cook cookies and pies.
+                </p>
+                <a href="#" class="thai-button thai-button_black">Discover</a>
+              </div>
+              <img class="h-center" src="{{product2.2.cover_566x253}}" alt="" />
+              <i class="icon icon--timer icon-mustard absolute"></i>
+            </article>
+          </div>
+    </div>
+  </div>
+
+  <div class="columns large-3">
+    <article class="single-product relative extended-vertical">
+      <div class="single-product__blocks-overlay v-center">
+        <h3>{{product2.3.title}}</h3>
+        <hr/>
+        <p>
+        {{product2.3.description}}
+        </p>
+        <a href="#" class="thai-button thai-button_black">Découvrir</a>
+      </div>
+      <img class="a-center" src="{{product2.3.cover_273x546}}" alt="" />
+      <i class="icon icon--timer icon-mustard absolute"></i>
+    </article>
+  </div>
+
+  <div class="columns large-3">
+    <article class="single-product relative extended-vertical">
+      <div class="single-product__blocks-overlay v-center">
+        <h3>{{product2.4.title}}</h3>
+        <hr/>
+        <p>
+        {{product2.4.description}}
+        </p>
+        <a href="#" class="thai-button thai-button_black">Découvrir</a>
+      </div>
+      <img class="a-center" src="{{product2.4.cover_273x546}}" alt="" />
+      <i class="icon icon--timer icon-mustard absolute"></i>
+    </article>
+  </div>
+
+</div>

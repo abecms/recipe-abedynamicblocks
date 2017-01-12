@@ -1,0 +1,43 @@
+{
+  "abe_meta": {
+    "template": "example2",
+    "link": "/example2.html",
+    "date": "2017-01-11T16:38:48.904Z",
+    "latest": {
+      "date": "2017-01-11T16:39:10.635Z",
+      "abeUrl": "/example2.html"
+    },
+    "status": "publish",
+    "draft": {
+      "latest": {
+        "date": "2017-01-11T16:39:08.076Z",
+        "abeUrl": "/example2-abe-d20170111T163908076Z.html"
+      },
+      "date": "2017-01-11T16:38:48.904Z",
+      "abeUrl": "/example2-abe-d20170111T163848904Z.html"
+    },
+    "complete": "100",
+    "cleanName": "example2",
+    "cleanFilename": "",
+    "publish": {
+      "latest": {
+        "date": "2017-01-11T16:39:10.635Z",
+        "abeUrl": "/example2.html"
+      },
+      "date": "2017-01-11T16:39:10.635Z",
+      "abeUrl": "/example2.html"
+    }
+  },
+  "block1": {
+    "id": "1",
+    "label": "Primary block 1"
+  },
+  "block2": {
+    "id": "2",
+    "label": "Secondary block 2"
+  },
+  "name": "example2",
+  "block11Title": "This is a title",
+  "block22Title": "This is another title",
+  "oldFilePath": "/example2.html"
+}

@@ -1,0 +1,34 @@
+{
+  "level-1": [
+    "articles"
+  ],
+  "name": "product5",
+  "title": "product 4",
+  "cover": "/image/egg-6a2e-123e.jpg",
+  "oldFilePath": "/articles/product4.html",
+  "block1": "",
+  "block2": "",
+  "layout1": "",
+  "layout2": "",
+  "layout3": "",
+  "description": "product 4 description",
+  "abe_meta": {
+    "template": "single-product",
+    "link": "/articles/product5.html",
+    "date": "2017-01-11T17:31:34.144Z",
+    "latest": {
+      "date": "2017-01-11T17:31:34.144Z",
+      "abeUrl": "/articles/product5-abe-d20170111T173134144Z.html"
+    },
+    "status": "draft",
+    "draft": {
+      "latest": {
+        "date": "2017-01-11T17:31:34.144Z",
+        "abeUrl": "/articles/product5-abe-d20170111T173134144Z.html"
+      },
+      "date": "2017-01-11T17:31:34.144Z",
+      "abeUrl": "/articles/product5-abe-d20170111T173134144Z.html"
+    },
+    "complete": "100"
+  }
+}

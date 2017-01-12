@@ -1,0 +1,48 @@
+{
+  "level-1": [
+    "articles"
+  ],
+  "name": "product3",
+  "title": "product 3",
+  "cover": "/image/cinnamon-89b5-a589.gif",
+  "oldFilePath": "/articles/product3.html",
+  "block1": "",
+  "block2": "",
+  "layout1": "",
+  "layout2": "",
+  "layout3": "",
+  "description": "product 3 description",
+  "abe_meta": {
+    "template": "single-product",
+    "link": "/articles/product3.html",
+    "date": "2017-01-11T17:30:49.438Z",
+    "latest": {
+      "date": "2017-01-12T03:00:48.075Z",
+      "abeUrl": "/articles/product3-abe-d20170112T030048075Z.html"
+    },
+    "status": "draft",
+    "draft": {
+      "latest": {
+        "date": "2017-01-12T03:00:48.075Z",
+        "abeUrl": "/articles/product3-abe-d20170112T030048075Z.html"
+      },
+      "date": "2017-01-11T17:30:49.438Z",
+      "abeUrl": "/articles/product3-abe-d20170111T173049438Z.html"
+    },
+    "complete": "100",
+    "cleanName": "product3",
+    "cleanFilename": "/articles",
+    "publish": {
+      "latest": {
+        "date": "2017-01-11T20:14:10.458Z",
+        "abeUrl": "/articles/product3.html"
+      },
+      "date": "2017-01-11T17:31:04.382Z",
+      "abeUrl": "/articles/product3.html"
+    }
+  },
+  "cover_859x253": "/image/cinnamon-89b5-a589_859x253.gif",
+  "cover_273x273": "/image/cinnamon-89b5-a589_273x273.gif",
+  "cover_566x253": "/image/cinnamon-89b5-a589_566x253.gif",
+  "cover_273x546": "/image/cinnamon-89b5-a589_273x546.gif"
+}

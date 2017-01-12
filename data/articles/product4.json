@@ -1,0 +1,48 @@
+{
+  "level-1": [
+    "articles"
+  ],
+  "name": "product4",
+  "title": "product 4",
+  "cover": "/image/egg-6a2e-49f1.jpg",
+  "oldFilePath": "/articles/product4.html",
+  "block1": "",
+  "block2": "",
+  "layout1": "",
+  "layout2": "",
+  "layout3": "",
+  "description": "product 4 description",
+  "abe_meta": {
+    "template": "single-product",
+    "link": "/articles/product4.html",
+    "date": "2017-01-11T17:31:10.780Z",
+    "latest": {
+      "date": "2017-01-12T03:01:06.534Z",
+      "abeUrl": "/articles/product4.html"
+    },
+    "status": "publish",
+    "draft": {
+      "latest": {
+        "date": "2017-01-11T17:31:10.780Z",
+        "abeUrl": "/articles/product4-abe-d20170111T173110780Z.html"
+      },
+      "date": "2017-01-11T17:31:10.780Z",
+      "abeUrl": "/articles/product4-abe-d20170111T173110780Z.html"
+    },
+    "complete": "100",
+    "cleanName": "product4",
+    "cleanFilename": "/articles",
+    "publish": {
+      "latest": {
+        "date": "2017-01-12T03:01:06.534Z",
+        "abeUrl": "/articles/product4.html"
+      },
+      "date": "2017-01-11T17:31:26.798Z",
+      "abeUrl": "/articles/product4.html"
+    }
+  },
+  "cover_859x253": "/image/egg-6a2e-49f1_859x253.jpg",
+  "cover_273x273": "/image/egg-6a2e-49f1_273x273.jpg",
+  "cover_566x253": "/image/egg-6a2e-49f1_566x253.jpg",
+  "cover_273x546": "/image/egg-6a2e-49f1_273x546.jpg"
+}

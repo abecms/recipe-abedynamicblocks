@@ -1,0 +1,37 @@
+{{abe type='data' key='block1' desc='Select first block' source='[{"id":"1","label":"Primary block 1"}, {"id":"2","label":"Primary block 2"}]' display='label' max-length='1' tab='slug' reload="true"}}
+
+{{abe type='data' key='block2' desc='Select second block' source='[{"id":"1","label":"Secondary block 1"}, {"id":"2","label":"Secondary block 2"}]' display='label' max-length='1' tab='slug' reload="true"}}
+
+{{abe type='text' key='name' desc='Name of the page' tab='slug' visible='false'}}
+<html>
+<head>
+<title>Recipe Dynamicblocks</title>
+	<link rel="stylesheet" href="/assets/css/main.css" />
+</head>	
+<body>
+<!-- Wrapper -->
+<div id="wrapper">
+	<!-- Main -->
+	<div id="main">
+		<div class="inner">
+			<section>
+				<header class="main">
+					<h1>Recipe Dynamic blocks</h1>
+				</header>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non.</p>
+					
+					<hr class="major" />
+					
+					{{abe type='import' file='example1/block1-{{block1.id}}.html'}}
+					
+					<hr class="major" />
+
+					{{abe type='import' file='example1/block2-{{block2.id}}.html'}}
+
+			</section>
+		</div>
+
+	</div>
+</div>
+</body>
+</html>

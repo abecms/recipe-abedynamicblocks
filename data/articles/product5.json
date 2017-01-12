@@ -1,0 +1,48 @@
+{
+  "level-1": [
+    "articles"
+  ],
+  "name": "product5",
+  "title": "product 5",
+  "cover": "/image/gingerbread-996a-9945.jpg",
+  "oldFilePath": "/articles/product5.html",
+  "block1": "",
+  "block2": "",
+  "layout1": "",
+  "layout2": "",
+  "layout3": "",
+  "description": "product 5 description",
+  "abe_meta": {
+    "template": "single-product",
+    "link": "/articles/product5.html",
+    "date": "2017-01-11T17:31:34.144Z",
+    "latest": {
+      "date": "2017-01-12T03:01:27.729Z",
+      "abeUrl": "/articles/product5.html"
+    },
+    "status": "publish",
+    "draft": {
+      "latest": {
+        "date": "2017-01-12T03:01:25.955Z",
+        "abeUrl": "/articles/product5-abe-d20170112T030125955Z.html"
+      },
+      "date": "2017-01-11T17:31:34.144Z",
+      "abeUrl": "/articles/product5-abe-d20170111T173134144Z.html"
+    },
+    "complete": "100",
+    "cleanName": "product5",
+    "cleanFilename": "/articles",
+    "publish": {
+      "latest": {
+        "date": "2017-01-12T03:01:27.729Z",
+        "abeUrl": "/articles/product5.html"
+      },
+      "date": "2017-01-11T17:31:48.839Z",
+      "abeUrl": "/articles/product5.html"
+    }
+  },
+  "cover_859x253": "/image/gingerbread-996a-9945_859x253.jpg",
+  "cover_273x273": "/image/gingerbread-996a-9945_273x273.jpg",
+  "cover_566x253": "/image/gingerbread-996a-9945_566x253.jpg",
+  "cover_273x546": "/image/gingerbread-996a-9945_273x546.jpg"
+}

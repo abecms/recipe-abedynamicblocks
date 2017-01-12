@@ -1,0 +1,48 @@
+{
+  "level-1": [
+    "articles"
+  ],
+  "name": "product2",
+  "title": "product 2",
+  "cover": "/image/christmas-cookies-8d00-7d13.jpg",
+  "oldFilePath": "/articles/product2.html",
+  "block1": "",
+  "block2": "",
+  "layout1": "",
+  "layout2": "",
+  "layout3": "",
+  "description": "product 2 description",
+  "abe_meta": {
+    "template": "single-product",
+    "link": "/articles/product2.html",
+    "date": "2017-01-11T17:30:32.030Z",
+    "latest": {
+      "date": "2017-01-12T03:00:28.979Z",
+      "abeUrl": "/articles/product2.html"
+    },
+    "status": "publish",
+    "draft": {
+      "latest": {
+        "date": "2017-01-12T03:00:26.575Z",
+        "abeUrl": "/articles/product2-abe-d20170112T030026575Z.html"
+      },
+      "date": "2017-01-11T17:30:32.030Z",
+      "abeUrl": "/articles/product2-abe-d20170111T173032030Z.html"
+    },
+    "complete": "100",
+    "cleanName": "product2",
+    "cleanFilename": "/articles",
+    "publish": {
+      "latest": {
+        "date": "2017-01-12T03:00:28.979Z",
+        "abeUrl": "/articles/product2.html"
+      },
+      "date": "2017-01-11T17:30:44.479Z",
+      "abeUrl": "/articles/product2.html"
+    }
+  },
+  "cover_859x253": "/image/christmas-cookies-8d00-7d13_859x253.jpg",
+  "cover_273x273": "/image/christmas-cookies-8d00-7d13_273x273.jpg",
+  "cover_566x253": "/image/christmas-cookies-8d00-7d13_566x253.jpg",
+  "cover_273x546": "/image/christmas-cookies-8d00-7d13_273x546.jpg"
+}

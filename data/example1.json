@@ -1,0 +1,46 @@
+{
+  "selectTemplate": "index",
+  "name": "example1",
+  "null": "fMsoR1Dy-2zAfrQxlYU7Cxb1LWtPFk2Q1JSc",
+  "oldFilePath": "/example1.html",
+  "block1": {
+    "id": "1",
+    "label": "Primary block 1"
+  },
+  "block2": {
+    "id": "2",
+    "label": "Secondary block 2"
+  },
+  "abe_meta": {
+    "template": "example1",
+    "link": "/example1.html",
+    "date": "2017-01-11T17:42:29.767Z",
+    "latest": {
+      "date": "2017-01-11T23:52:47.250Z",
+      "abeUrl": "/example1.html"
+    },
+    "status": "publish",
+    "draft": {
+      "latest": {
+        "date": "2017-01-11T17:42:29.767Z",
+        "abeUrl": "/example1-abe-d20170111T174229767Z.html"
+      },
+      "date": "2017-01-11T17:42:29.767Z",
+      "abeUrl": "/example1-abe-d20170111T174229767Z.html"
+    },
+    "complete": "100",
+    "cleanName": "example1",
+    "cleanFilename": "",
+    "publish": {
+      "latest": {
+        "date": "2017-01-11T23:52:47.250Z",
+        "abeUrl": "/example1.html"
+      },
+      "date": "2017-01-11T23:52:47.250Z",
+      "abeUrl": "/example1.html"
+    }
+  },
+  "layout1": "",
+  "layout2": "",
+  "layout3": ""
+}

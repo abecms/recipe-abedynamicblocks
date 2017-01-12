@@ -1,0 +1,48 @@
+{
+  "level-1": [
+    "articles"
+  ],
+  "abe_meta": {
+    "template": "single-product",
+    "link": "/articles/product1.html",
+    "date": "2017-01-11T16:57:52.932Z",
+    "latest": {
+      "date": "2017-01-12T02:59:59.158Z",
+      "abeUrl": "/articles/product1-abe-d20170112T025959158Z.html"
+    },
+    "status": "draft",
+    "draft": {
+      "latest": {
+        "date": "2017-01-12T02:59:59.158Z",
+        "abeUrl": "/articles/product1-abe-d20170112T025959158Z.html"
+      },
+      "date": "2017-01-11T16:57:52.932Z",
+      "abeUrl": "/articles/product1-abe-d20170111T165752932Z.html"
+    },
+    "complete": "100",
+    "cleanName": "product1",
+    "cleanFilename": "/articles",
+    "publish": {
+      "latest": {
+        "date": "2017-01-11T17:30:24.936Z",
+        "abeUrl": "/articles/product1.html"
+      },
+      "date": "2017-01-11T17:30:24.936Z",
+      "abeUrl": "/articles/product1.html"
+    }
+  },
+  "name": "product1",
+  "title": "product 1",
+  "cover": "/image/chocolate-pecan-b495-193c.jpg",
+  "oldFilePath": "/articles/product1.html",
+  "block1": "",
+  "block2": "",
+  "layout1": "",
+  "layout2": "",
+  "layout3": "",
+  "description": "product 1 description",
+  "cover_859x253": "/image/chocolate-pecan-b495-193c_859x253.jpg",
+  "cover_273x273": "/image/chocolate-pecan-b495-193c_273x273.jpg",
+  "cover_566x253": "/image/chocolate-pecan-b495-193c_566x253.jpg",
+  "cover_273x546": "/image/chocolate-pecan-b495-193c_273x546.jpg"
+}

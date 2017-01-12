@@ -1,0 +1,481 @@
+{
+  "abe_meta": {
+    "template": "example3",
+    "link": "/example3.html",
+    "date": "2017-01-11T17:43:12.454Z",
+    "latest": {
+      "date": "2017-01-12T03:08:23.217Z",
+      "abeUrl": "/example3.html"
+    },
+    "status": "publish",
+    "draft": {
+      "latest": {
+        "date": "2017-01-11T22:17:35.761Z",
+        "abeUrl": "/example3-abe-d20170111T221735761Z.html"
+      },
+      "date": "2017-01-11T17:43:12.454Z",
+      "abeUrl": "/example3-abe-d20170111T174312454Z.html"
+    },
+    "complete": "100",
+    "cleanName": "example3",
+    "cleanFilename": "",
+    "publish": {
+      "latest": {
+        "date": "2017-01-12T03:08:23.217Z",
+        "abeUrl": "/example3.html"
+      },
+      "date": "2017-01-11T23:33:03.425Z",
+      "abeUrl": "/example3.html"
+    }
+  },
+  "layout1": {
+    "id": "1",
+    "label": "Block1 - 2 items - Title"
+  },
+  "layout2": {
+    "id": "2",
+    "label": "Block2 - 5 items - No title"
+  },
+  "layout3": {
+    "id": "3",
+    "label": "Block3 - 7 items - Title"
+  },
+  "name": "example3",
+  "oldFilePath": "/example3.html",
+  "product1": {
+    "title": "product 3",
+    "cover_859x253": "/image/cinammon-40b2_859x253.jpg",
+    "description": "product 3 description",
+    "abe_meta": {
+      "template": "single-product",
+      "link": "/articles/product3.html",
+      "date": "2017-01-11T17:30:49.438Z",
+      "latest": {
+        "date": "2017-01-12T03:06:14.832Z",
+        "abeUrl": "/articles/product3.html"
+      },
+      "status": "publish",
+      "draft": {
+        "latest": {
+          "date": "2017-01-12T03:06:10.384Z",
+          "abeUrl": "/articles/product3-abe-d20170112T030610384Z.html"
+        },
+        "date": "2017-01-11T17:30:49.438Z",
+        "abeUrl": "/articles/product3-abe-d20170111T173049438Z.html"
+      },
+      "complete": "100",
+      "cleanName": "product3",
+      "cleanFilename": "/articles",
+      "publish": {
+        "latest": {
+          "date": "2017-01-12T03:06:14.832Z",
+          "abeUrl": "/articles/product3.html"
+        },
+        "date": "2017-01-11T17:31:04.382Z",
+        "abeUrl": "/articles/product3.html"
+      }
+    }
+  },
+  "product2": [
+    {
+      "title": "product 3",
+      "cover_273x273": "/image/cinammon-40b2_273x273.jpg",
+      "cover_566x253": "/image/cinammon-40b2_566x253.jpg",
+      "cover_273x546": "/image/cinammon-40b2_273x546.jpg",
+      "description": "product 3 description",
+      "abe_meta": {
+        "template": "single-product",
+        "link": "/articles/product3.html",
+        "date": "2017-01-11T17:30:49.438Z",
+        "latest": {
+          "date": "2017-01-12T03:06:14.832Z",
+          "abeUrl": "/articles/product3.html"
+        },
+        "status": "publish",
+        "draft": {
+          "latest": {
+            "date": "2017-01-12T03:06:10.384Z",
+            "abeUrl": "/articles/product3-abe-d20170112T030610384Z.html"
+          },
+          "date": "2017-01-11T17:30:49.438Z",
+          "abeUrl": "/articles/product3-abe-d20170111T173049438Z.html"
+        },
+        "complete": "100",
+        "cleanName": "product3",
+        "cleanFilename": "/articles",
+        "publish": {
+          "latest": {
+            "date": "2017-01-12T03:06:14.832Z",
+            "abeUrl": "/articles/product3.html"
+          },
+          "date": "2017-01-11T17:31:04.382Z",
+          "abeUrl": "/articles/product3.html"
+        }
+      }
+    },
+    {
+      "title": "product 6",
+      "cover_273x273": "/image/rasperry-8e38-0012_273x273.jpg",
+      "cover_566x253": "/image/rasperry-8e38-0012_566x253.jpg",
+      "cover_273x546": "/image/rasperry-8e38-0012_273x546.jpg",
+      "description": "product 6 description",
+      "abe_meta": {
+        "template": "single-product",
+        "link": "/articles/product6.html",
+        "date": "2017-01-11T17:31:57.316Z",
+        "latest": {
+          "date": "2017-01-12T03:01:47.571Z",
+          "abeUrl": "/articles/product6.html"
+        },
+        "status": "publish",
+        "draft": {
+          "latest": {
+            "date": "2017-01-12T03:01:45.489Z",
+            "abeUrl": "/articles/product6-abe-d20170112T030145489Z.html"
+          },
+          "date": "2017-01-11T17:31:57.316Z",
+          "abeUrl": "/articles/product6-abe-d20170111T173157316Z.html"
+        },
+        "complete": "100",
+        "cleanName": "product6",
+        "cleanFilename": "/articles",
+        "publish": {
+          "latest": {
+            "date": "2017-01-12T03:01:47.571Z",
+            "abeUrl": "/articles/product6.html"
+          },
+          "date": "2017-01-11T17:32:08.856Z",
+          "abeUrl": "/articles/product6.html"
+        }
+      }
+    },
+    {
+      "title": "product 5",
+      "cover_273x273": "/image/gingerbread-996a-9945_273x273.jpg",
+      "cover_566x253": "/image/gingerbread-996a-9945_566x253.jpg",
+      "cover_273x546": "/image/gingerbread-996a-9945_273x546.jpg",
+      "description": "product 5 description",
+      "abe_meta": {
+        "template": "single-product",
+        "link": "/articles/product5.html",
+        "date": "2017-01-11T17:31:34.144Z",
+        "latest": {
+          "date": "2017-01-12T03:01:27.729Z",
+          "abeUrl": "/articles/product5.html"
+        },
+        "status": "publish",
+        "draft": {
+          "latest": {
+            "date": "2017-01-12T03:01:25.955Z",
+            "abeUrl": "/articles/product5-abe-d20170112T030125955Z.html"
+          },
+          "date": "2017-01-11T17:31:34.144Z",
+          "abeUrl": "/articles/product5-abe-d20170111T173134144Z.html"
+        },
+        "complete": "100",
+        "cleanName": "product5",
+        "cleanFilename": "/articles",
+        "publish": {
+          "latest": {
+            "date": "2017-01-12T03:01:27.729Z",
+            "abeUrl": "/articles/product5.html"
+          },
+          "date": "2017-01-11T17:31:48.839Z",
+          "abeUrl": "/articles/product5.html"
+        }
+      }
+    },
+    {
+      "title": "product 4",
+      "cover_273x273": "/image/egg-6a2e-49f1_273x273.jpg",
+      "cover_566x253": "/image/egg-6a2e-49f1_566x253.jpg",
+      "cover_273x546": "/image/egg-6a2e-49f1_273x546.jpg",
+      "description": "product 4 description",
+      "abe_meta": {
+        "template": "single-product",
+        "link": "/articles/product4.html",
+        "date": "2017-01-11T17:31:10.780Z",
+        "latest": {
+          "date": "2017-01-12T03:01:06.534Z",
+          "abeUrl": "/articles/product4.html"
+        },
+        "status": "publish",
+        "draft": {
+          "latest": {
+            "date": "2017-01-11T17:31:10.780Z",
+            "abeUrl": "/articles/product4-abe-d20170111T173110780Z.html"
+          },
+          "date": "2017-01-11T17:31:10.780Z",
+          "abeUrl": "/articles/product4-abe-d20170111T173110780Z.html"
+        },
+        "complete": "100",
+        "cleanName": "product4",
+        "cleanFilename": "/articles",
+        "publish": {
+          "latest": {
+            "date": "2017-01-12T03:01:06.534Z",
+            "abeUrl": "/articles/product4.html"
+          },
+          "date": "2017-01-11T17:31:26.798Z",
+          "abeUrl": "/articles/product4.html"
+        }
+      }
+    },
+    {
+      "title": "product 1",
+      "cover_273x273": "/image/chocolate-pecan-b495-193c_273x273.jpg",
+      "cover_566x253": "/image/chocolate-pecan-b495-193c_566x253.jpg",
+      "cover_273x546": "/image/chocolate-pecan-b495-193c_273x546.jpg",
+      "description": "product 1 description",
+      "abe_meta": {
+        "template": "single-product",
+        "link": "/articles/product1.html",
+        "date": "2017-01-11T16:57:52.932Z",
+        "latest": {
+          "date": "2017-01-12T03:00:02.860Z",
+          "abeUrl": "/articles/product1.html"
+        },
+        "status": "publish",
+        "draft": {
+          "latest": {
+            "date": "2017-01-12T02:59:59.158Z",
+            "abeUrl": "/articles/product1-abe-d20170112T025959158Z.html"
+          },
+          "date": "2017-01-11T16:57:52.932Z",
+          "abeUrl": "/articles/product1-abe-d20170111T165752932Z.html"
+        },
+        "complete": "100",
+        "cleanName": "product1",
+        "cleanFilename": "/articles",
+        "publish": {
+          "latest": {
+            "date": "2017-01-12T03:00:02.860Z",
+            "abeUrl": "/articles/product1.html"
+          },
+          "date": "2017-01-11T17:30:24.936Z",
+          "abeUrl": "/articles/product1.html"
+        }
+      }
+    }
+  ],
+  "product3": [
+    {
+      "title": "product 3",
+      "cover_273x273": "/image/cinammon-40b2_273x273.jpg",
+      "cover_566x253": "/image/cinammon-40b2_566x253.jpg",
+      "description": "product 3 description",
+      "abe_meta": {
+        "template": "single-product",
+        "link": "/articles/product3.html",
+        "date": "2017-01-11T17:30:49.438Z",
+        "latest": {
+          "date": "2017-01-12T03:06:14.832Z",
+          "abeUrl": "/articles/product3.html"
+        },
+        "status": "publish",
+        "draft": {
+          "latest": {
+            "date": "2017-01-12T03:06:10.384Z",
+            "abeUrl": "/articles/product3-abe-d20170112T030610384Z.html"
+          },
+          "date": "2017-01-11T17:30:49.438Z",
+          "abeUrl": "/articles/product3-abe-d20170111T173049438Z.html"
+        },
+        "complete": "100",
+        "cleanName": "product3",
+        "cleanFilename": "/articles",
+        "publish": {
+          "latest": {
+            "date": "2017-01-12T03:06:14.832Z",
+            "abeUrl": "/articles/product3.html"
+          },
+          "date": "2017-01-11T17:31:04.382Z",
+          "abeUrl": "/articles/product3.html"
+        }
+      }
+    },
+    {
+      "title": "product 6",
+      "cover_273x273": "/image/rasperry-8e38-0012_273x273.jpg",
+      "cover_566x253": "/image/rasperry-8e38-0012_566x253.jpg",
+      "description": "product 6 description",
+      "abe_meta": {
+        "template": "single-product",
+        "link": "/articles/product6.html",
+        "date": "2017-01-11T17:31:57.316Z",
+        "latest": {
+          "date": "2017-01-12T03:01:47.571Z",
+          "abeUrl": "/articles/product6.html"
+        },
+        "status": "publish",
+        "draft": {
+          "latest": {
+            "date": "2017-01-12T03:01:45.489Z",
+            "abeUrl": "/articles/product6-abe-d20170112T030145489Z.html"
+          },
+          "date": "2017-01-11T17:31:57.316Z",
+          "abeUrl": "/articles/product6-abe-d20170111T173157316Z.html"
+        },
+        "complete": "100",
+        "cleanName": "product6",
+        "cleanFilename": "/articles",
+        "publish": {
+          "latest": {
+            "date": "2017-01-12T03:01:47.571Z",
+            "abeUrl": "/articles/product6.html"
+          },
+          "date": "2017-01-11T17:32:08.856Z",
+          "abeUrl": "/articles/product6.html"
+        }
+      }
+    },
+    {
+      "title": "product 5",
+      "cover_273x273": "/image/gingerbread-996a-9945_273x273.jpg",
+      "cover_566x253": "/image/gingerbread-996a-9945_566x253.jpg",
+      "description": "product 5 description",
+      "abe_meta": {
+        "template": "single-product",
+        "link": "/articles/product5.html",
+        "date": "2017-01-11T17:31:34.144Z",
+        "latest": {
+          "date": "2017-01-12T03:01:27.729Z",
+          "abeUrl": "/articles/product5.html"
+        },
+        "status": "publish",
+        "draft": {
+          "latest": {
+            "date": "2017-01-12T03:01:25.955Z",
+            "abeUrl": "/articles/product5-abe-d20170112T030125955Z.html"
+          },
+          "date": "2017-01-11T17:31:34.144Z",
+          "abeUrl": "/articles/product5-abe-d20170111T173134144Z.html"
+        },
+        "complete": "100",
+        "cleanName": "product5",
+        "cleanFilename": "/articles",
+        "publish": {
+          "latest": {
+            "date": "2017-01-12T03:01:27.729Z",
+            "abeUrl": "/articles/product5.html"
+          },
+          "date": "2017-01-11T17:31:48.839Z",
+          "abeUrl": "/articles/product5.html"
+        }
+      }
+    },
+    {
+      "title": "product 4",
+      "cover_273x273": "/image/egg-6a2e-49f1_273x273.jpg",
+      "cover_566x253": "/image/egg-6a2e-49f1_566x253.jpg",
+      "description": "product 4 description",
+      "abe_meta": {
+        "template": "single-product",
+        "link": "/articles/product4.html",
+        "date": "2017-01-11T17:31:10.780Z",
+        "latest": {
+          "date": "2017-01-12T03:01:06.534Z",
+          "abeUrl": "/articles/product4.html"
+        },
+        "status": "publish",
+        "draft": {
+          "latest": {
+            "date": "2017-01-11T17:31:10.780Z",
+            "abeUrl": "/articles/product4-abe-d20170111T173110780Z.html"
+          },
+          "date": "2017-01-11T17:31:10.780Z",
+          "abeUrl": "/articles/product4-abe-d20170111T173110780Z.html"
+        },
+        "complete": "100",
+        "cleanName": "product4",
+        "cleanFilename": "/articles",
+        "publish": {
+          "latest": {
+            "date": "2017-01-12T03:01:06.534Z",
+            "abeUrl": "/articles/product4.html"
+          },
+          "date": "2017-01-11T17:31:26.798Z",
+          "abeUrl": "/articles/product4.html"
+        }
+      }
+    },
+    {
+      "title": "product 2",
+      "cover_273x273": "/image/christmas-cookies-8d00-7d13_273x273.jpg",
+      "cover_566x253": "/image/christmas-cookies-8d00-7d13_566x253.jpg",
+      "description": "product 2 description",
+      "abe_meta": {
+        "template": "single-product",
+        "link": "/articles/product2.html",
+        "date": "2017-01-11T17:30:32.030Z",
+        "latest": {
+          "date": "2017-01-12T03:00:28.979Z",
+          "abeUrl": "/articles/product2.html"
+        },
+        "status": "publish",
+        "draft": {
+          "latest": {
+            "date": "2017-01-12T03:00:26.575Z",
+            "abeUrl": "/articles/product2-abe-d20170112T030026575Z.html"
+          },
+          "date": "2017-01-11T17:30:32.030Z",
+          "abeUrl": "/articles/product2-abe-d20170111T173032030Z.html"
+        },
+        "complete": "100",
+        "cleanName": "product2",
+        "cleanFilename": "/articles",
+        "publish": {
+          "latest": {
+            "date": "2017-01-12T03:00:28.979Z",
+            "abeUrl": "/articles/product2.html"
+          },
+          "date": "2017-01-11T17:30:44.479Z",
+          "abeUrl": "/articles/product2.html"
+        }
+      }
+    },
+    {
+      "title": "product 1",
+      "cover_273x273": "/image/chocolate-pecan-b495-193c_273x273.jpg",
+      "cover_566x253": "/image/chocolate-pecan-b495-193c_566x253.jpg",
+      "description": "product 1 description",
+      "abe_meta": {
+        "template": "single-product",
+        "link": "/articles/product1.html",
+        "date": "2017-01-11T16:57:52.932Z",
+        "latest": {
+          "date": "2017-01-12T03:00:02.860Z",
+          "abeUrl": "/articles/product1.html"
+        },
+        "status": "publish",
+        "draft": {
+          "latest": {
+            "date": "2017-01-12T02:59:59.158Z",
+            "abeUrl": "/articles/product1-abe-d20170112T025959158Z.html"
+          },
+          "date": "2017-01-11T16:57:52.932Z",
+          "abeUrl": "/articles/product1-abe-d20170111T165752932Z.html"
+        },
+        "complete": "100",
+        "cleanName": "product1",
+        "cleanFilename": "/articles",
+        "publish": {
+          "latest": {
+            "date": "2017-01-12T03:00:02.860Z",
+            "abeUrl": "/articles/product1.html"
+          },
+          "date": "2017-01-11T17:30:24.936Z",
+          "abeUrl": "/articles/product1.html"
+        }
+      }
+    }
+  ],
+  "block1": "",
+  "block2": "",
+  "push": [
+    {
+      "title": "push",
+      "desc": "required"
+    }
+  ]
+}

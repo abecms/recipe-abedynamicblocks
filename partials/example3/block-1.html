@@ -1,0 +1,28 @@
+{{abe type="data" key="product1" source="select title,cover_859x253,description from /articles where `abe_meta.template`=`single-product`" desc="Select a product from this list" display="{{title}}" max-length="1" reload="true"}}
+<div class="row">
+  <div class="columns large-3">
+    <div class="bloc-info orange">
+      <p class="bloc-info__title">Discover
+        <br />step by step</p>
+      <hr />
+      <p class="bloc-info__subtitle">Enter the kitchen
+        <br />French cuisine step by step</p>
+      <i class="icon icon--box"></i>
+    </div>
+  </div>
+
+  <div class="columns large-9">
+    <article class="single-product relative extended-horizontal">
+      <div class="single-product__blocks-overlay">
+        <h3>{{product1.title}}</h3>
+        <hr/>
+        <p>
+          {{product1.description}}
+        </p>
+        <a href="{{product1.O.abe_meta.link}}" class="thai-button thai-button_black">Discover</a>
+      </div>
+      <img class="h-center" src="{{product1.cover_859x253}}" alt="" />
+      <i class="icon icon--box icon-orange absolute"></i>
+    </article>
+  </div>
+</div>

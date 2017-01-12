@@ -1,0 +1,48 @@
+{
+  "level-1": [
+    "articles"
+  ],
+  "name": "product6",
+  "title": "product 6",
+  "cover": "/image/rasperry-8e38-0012.jpg",
+  "oldFilePath": "/articles/product6.html",
+  "block1": "",
+  "block2": "",
+  "layout1": "",
+  "layout2": "",
+  "layout3": "",
+  "description": "product 6 description",
+  "abe_meta": {
+    "template": "single-product",
+    "link": "/articles/product6.html",
+    "date": "2017-01-11T17:31:57.316Z",
+    "latest": {
+      "date": "2017-01-12T03:01:47.571Z",
+      "abeUrl": "/articles/product6.html"
+    },
+    "status": "publish",
+    "draft": {
+      "latest": {
+        "date": "2017-01-12T03:01:45.489Z",
+        "abeUrl": "/articles/product6-abe-d20170112T030145489Z.html"
+      },
+      "date": "2017-01-11T17:31:57.316Z",
+      "abeUrl": "/articles/product6-abe-d20170111T173157316Z.html"
+    },
+    "complete": "100",
+    "cleanName": "product6",
+    "cleanFilename": "/articles",
+    "publish": {
+      "latest": {
+        "date": "2017-01-12T03:01:47.571Z",
+        "abeUrl": "/articles/product6.html"
+      },
+      "date": "2017-01-11T17:32:08.856Z",
+      "abeUrl": "/articles/product6.html"
+    }
+  },
+  "cover_859x253": "/image/rasperry-8e38-0012_859x253.jpg",
+  "cover_273x273": "/image/rasperry-8e38-0012_273x273.jpg",
+  "cover_566x253": "/image/rasperry-8e38-0012_566x253.jpg",
+  "cover_273x546": "/image/rasperry-8e38-0012_273x546.jpg"
+}
