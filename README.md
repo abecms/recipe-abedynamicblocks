@@ -34,4 +34,42 @@ That's it ! Just 2 lines to create selectable partials !
 Nothing really fancy here. If you add abe tags to your partials... These tags will be displayed. That's it.
 
 # Dynamic selection of Abe partials with data types
-This one is not that complicated neither. 
+This one is not that complicated neither. We've prepared product pages (in the directory articles) so that we'll be able to find articles.
+Then in the template:
+
+```
+{{abe type='data' key='layout1' desc='Select layout' source='reference/products-layout.json' display='{{label}}' max-length='1' tab='slug' visible='false' reload="true"}}
+```
+
+Note the first difference with the 2 previous recipes: In the source, we use a reference file containing the json of partials:
+
+products-layout.json
+```
+[
+  {"id":"1","label":"Block1 - 2 items - Title"},
+  {"id":"2","label":"Block2 - 5 items - No title"},
+  {"id":"3","label":"Block3 - 7 items - Title"}
+]
+```
+
+The user will se a dropdown list in the editor, and as we're putting this data tag in the tab="slug", this dropdown will be displayed on the creation page.
+
+Loading the selected partial in the template is done like that:
+
+```
+{{abe type='import' file='example3/block-{{layout1.id}}.html'}}
+```
+
+A selected partial will contain something like this:
+
+```
+{{abe type="data" key="product2" source="select title, cover_273x273,cover_566x253,cover_273x546, description from /articles where `abe_meta.template`=`single-product`" desc="Select 5 products from this list" display="{{title}}" max-length="5" reload="true"}}
+```
+
+This partial, once selected by the user at the creation, will display a dropdown list of products to chose from...
+
+
+That's it !
+
+
+
