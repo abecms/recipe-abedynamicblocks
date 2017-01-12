@@ -52,7 +52,8 @@ products-layout.json
 ]
 ```
 
-The user will se a dropdown list in the editor, and as we're putting this data tag in the tab="slug", this dropdown will be displayed on the creation page.
+This is another of creating a set of data. You can create it inline (as in the 2 previous examples) or reference it. As you prefer depending on your project.
+The user will see a dropdown list in the editor, and as we're putting this data tag in the tab="slug", this dropdown will be displayed on the creation page.
 
 Loading the selected partial in the template is done like that:
 
