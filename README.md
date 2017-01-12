@@ -1,8 +1,16 @@
 # recipe-abe-dynamicblocks
 This Abe recipe demonstrates how to propose the selection of a partial at a post creation
 
+# Installation
+1. git clone https://github.com/Abejs/recipe-abedynamicblocks.git
+2. cd recipe-abedynamicblocks
+3. abe serve -i
+4. Enjoy
+
 # Introduction
 This recipe will show you how to make a "dynamic template": You can create selectable partials in your template. This way, the contributor will be able to choose among a list of partials you have prepared to create her post.
+
+![Screenshot](/site/screenshot1.png?raw=true)
 
 We have divided this recipe into 3 templates, which are increasingly advanced: 
 
@@ -11,6 +19,9 @@ We have divided this recipe into 3 templates, which are increasingly advanced:
 - Dynamic selection of Abe partials with data types: The third template will show the creation of abified templates containing abe type=data. This last recipe is well suited to create products pages where contributor can selected different block layouts to present content of other articles (or products).
 
 # Dynamic selection of static partials
+
+![Screenshot](/site/screenshot2.png?raw=true)
+
 First of all, create your partials containing static contents.
 
 Now in your template, create a data type containing an array of options. You see here that we'll use an id to dynamize the selectable partials.
@@ -31,9 +42,15 @@ Note the syntax of your variable {{block1.id}}. This tells Abe to take the block
 That's it ! Just 2 lines to create selectable partials !
 
 # Dynamic selection of Abe partials
+
+![Screenshot](/site/screenshot3.png?raw=true)
+
 Nothing really fancy here. If you add abe tags to your partials... These tags will be displayed. That's it.
 
 # Dynamic selection of Abe partials with data types
+
+![Screenshot](/site/screenshot4.png?raw=true)
+
 This one is not that complicated neither. We've prepared product pages (in the directory articles) so that we'll be able to find articles.
 Then in the template:
 
