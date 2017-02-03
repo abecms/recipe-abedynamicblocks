@@ -12,13 +12,14 @@ This recipe will show you how to make a "dynamic template": You can create selec
 
 ![Screenshot](/site/screenshot1.png?raw=true)
 
-We have divided this recipe into 3 templates, which are increasingly advanced: 
+We have divided this recipe into 7 templates, which are increasingly advanced: 
 
 - Dynamic selection of static partials:The first template show you how to create a list of selectable static partials (nothing is modifiable by the contributor.
 - Dynamic selection of Abe partials: The second template show you how to create a list of "abified" templates: Depending on the selection made, the template is updated including the editor. The fields associated with the selected template are displayed.
 - Dynamic selection of Abe partials with data types: The third template will show the creation of abified templates containing abe type=data. This last recipe is well suited to create products pages where contributor can selected different block layouts to present content of other articles (or products).
+- Dynamic selection of Abe partials with a global data set to distribute equally on each partial. This recipe is divided into 4 examples: From example 4 to example 7. Follow the path !
 
-# Dynamic selection of static partials
+# Dynamic selection of static partials (example1)
 
 ![Screenshot](/site/screenshot2.png?raw=true)
 
@@ -41,13 +42,13 @@ Note the syntax of your variable {{block1.id}}. This tells Abe to take the block
 
 That's it ! Just 2 lines to create selectable partials !
 
-# Dynamic selection of Abe partials
+# Dynamic selection of Abe partials (example 2)
 
 ![Screenshot](/site/screenshot3.png?raw=true)
 
 Nothing really fancy here. If you add abe tags to your partials... These tags will be displayed. That's it.
 
-# Dynamic selection of Abe partials with data types
+# Dynamic selection of Abe partials with data types (example 3)
 
 ![Screenshot](/site/screenshot4.png?raw=true)
 
@@ -89,5 +90,5 @@ This partial, once selected by the user at the creation, will display a dropdown
 
 That's it !
 
-
+# Dynamic selection of Abe partials with a global data set
 
