@@ -29,38 +29,6 @@
   },
   "product2": [
     {
-      "title": "product 5",
-      "cover_273x273": "/image/gingerbread-996a-9945_273x273.jpg",
-      "cover_566x253": "/image/gingerbread-996a-9945_566x253.jpg",
-      "cover_273x546": "/image/gingerbread-996a-9945_273x546.jpg",
-      "description": "product 5 description",
-      "abe_meta": {
-        "date": "2017-02-03T06:55:17.058Z",
-        "type": "",
-        "link": "/articles/product5.html",
-        "template": "single-product",
-        "cleanName": "product5",
-        "cleanFilename": "/articles",
-        "status": "publish"
-      }
-    },
-    {
-      "title": "product 6",
-      "cover_273x273": "/image/rasperry-8e38-0012_273x273.jpg",
-      "cover_566x253": "/image/rasperry-8e38-0012_566x253.jpg",
-      "cover_273x546": "/image/rasperry-8e38-0012_273x546.jpg",
-      "description": "product 6 description",
-      "abe_meta": {
-        "date": "2017-02-03T06:54:56.687Z",
-        "type": "",
-        "link": "/articles/product6.html",
-        "template": "single-product",
-        "cleanName": "product6",
-        "cleanFilename": "/articles",
-        "status": "publish"
-      }
-    },
-    {
       "title": "product 2",
       "cover_273x273": "/image/christmas-cookies-8d00-7d13_273x273.jpg",
       "cover_566x253": "/image/christmas-cookies-8d00-7d13_566x253.jpg",
@@ -72,6 +40,38 @@
         "link": "/articles/product2.html",
         "template": "single-product",
         "cleanName": "product2",
+        "cleanFilename": "/articles",
+        "status": "publish"
+      }
+    },
+    {
+      "title": "product 6",
+      "cover_273x273": "/image/rasperry-8e38-0012_273x273.jpg",
+      "cover_566x253": "/image/rasperry-8e38-0012_566x253.jpg",
+      "cover_273x546": "/image/rasperry-8e38-0012_273x546.jpg",
+      "description": "product 6 description",
+      "abe_meta": {
+        "date": "2017-01-12T03:01:47.571Z",
+        "type": "",
+        "link": "/articles/product6.html",
+        "template": "single-product",
+        "cleanName": "product6",
+        "cleanFilename": "/articles",
+        "status": "publish"
+      }
+    },
+    {
+      "title": "product 5",
+      "cover_273x273": "/image/gingerbread-996a-9945_273x273.jpg",
+      "cover_566x253": "/image/gingerbread-996a-9945_566x253.jpg",
+      "cover_273x546": "/image/gingerbread-996a-9945_273x546.jpg",
+      "description": "product 5 description",
+      "abe_meta": {
+        "date": "2017-01-12T03:01:27.729Z",
+        "type": "",
+        "link": "/articles/product5.html",
+        "template": "single-product",
+        "cleanName": "product5",
         "cleanFilename": "/articles",
         "status": "publish"
       }
@@ -214,7 +214,7 @@
     "cover_859x253": "/image/rasperry-8e38-0012_859x253.jpg",
     "description": "product 6 description",
     "abe_meta": {
-      "date": "2017-02-03T06:54:56.687Z",
+      "date": "2017-01-12T03:01:47.571Z",
       "type": "",
       "link": "/articles/product6.html",
       "template": "single-product",
@@ -228,10 +228,10 @@
     "link": "/example3.html",
     "date": "2017-01-28T13:09:37.950Z",
     "latest": {
-      "date": "2017-02-03T07:08:46.891Z",
-      "abeUrl": "/example3.html"
+      "date": "2017-01-28T13:09:37.950Z",
+      "abeUrl": "/example3-abe-d20170128T130937950Z.html"
     },
-    "status": "publish",
+    "status": "draft",
     "draft": {
       "latest": {
         "date": "2017-01-28T13:09:37.950Z",
@@ -240,16 +240,6 @@
       "date": "2017-01-28T13:09:37.950Z",
       "abeUrl": "/example3-abe-d20170128T130937950Z.html"
     },
-    "complete": "100",
-    "cleanName": "example3",
-    "cleanFilename": "",
-    "publish": {
-      "latest": {
-        "date": "2017-02-03T07:08:46.891Z",
-        "abeUrl": "/example3.html"
-      },
-      "date": "2017-01-28T13:09:54.775Z",
-      "abeUrl": "/example3.html"
-    }
+    "complete": "100"
   }
 }

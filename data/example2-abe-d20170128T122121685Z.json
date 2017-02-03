@@ -4,10 +4,10 @@
     "link": "/example2.html",
     "date": "2017-01-11T16:38:48.904Z",
     "latest": {
-      "date": "2017-02-03T07:08:09.520Z",
-      "abeUrl": "/example2.html"
+      "date": "2017-01-28T12:21:21.685Z",
+      "abeUrl": "/example2-abe-d20170128T122121685Z.html"
     },
-    "status": "publish",
+    "status": "draft",
     "draft": {
       "latest": {
         "date": "2017-01-28T12:21:21.685Z",
@@ -21,7 +21,7 @@
     "cleanFilename": "",
     "publish": {
       "latest": {
-        "date": "2017-02-03T07:08:09.520Z",
+        "date": "2017-01-28T10:50:07.154Z",
         "abeUrl": "/example2.html"
       },
       "date": "2017-01-11T16:39:10.635Z",
@@ -29,19 +29,19 @@
     }
   },
   "block1": {
-    "id": "1",
-    "label": "Primary block 1"
+    "id": "2",
+    "label": "Primary block 2"
   },
   "block2": {
-    "id": "2",
-    "label": "Secondary block 2"
+    "id": "1",
+    "label": "Secondary block 1"
   },
   "name": "example2",
-  "block11Title": "title1-1",
-  "block22Title": "title2-2",
+  "block11Title": "This is a titledfghjk",
+  "block22Title": "This is another titledfvghn",
   "oldFilePath": "/example2.html",
   "block12Title": "title1-2",
-  "block21Title": "title2-1",
+  "block21Title": "",
   "layout1": "",
   "layout2": "",
   "layout3": ""

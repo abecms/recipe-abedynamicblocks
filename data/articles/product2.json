@@ -11,13 +11,13 @@
   "layout1": "",
   "layout2": "",
   "layout3": "",
-  "description": "product 2 description",
+  "description": "z product 2 description",
   "abe_meta": {
     "template": "single-product",
     "link": "/articles/product2.html",
     "date": "2017-01-11T17:30:32.030Z",
     "latest": {
-      "date": "2017-01-12T03:00:28.979Z",
+      "date": "2017-01-27T13:19:58.877Z",
       "abeUrl": "/articles/product2.html"
     },
     "status": "publish",
@@ -34,7 +34,7 @@
     "cleanFilename": "/articles",
     "publish": {
       "latest": {
-        "date": "2017-01-12T03:00:28.979Z",
+        "date": "2017-01-27T13:19:58.877Z",
         "abeUrl": "/articles/product2.html"
       },
       "date": "2017-01-11T17:30:44.479Z",

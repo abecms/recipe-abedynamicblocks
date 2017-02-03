@@ -1,0 +1,43 @@
+{{#each layouts}}
+  {{abe type='data' key='layouts.l' desc='Select layout' source='reference/products-group.json' display='{{label}}' max-length='1' tab='slug' reload="true"}}
+{{/each}}
+
+{{abe type='text' key='name' desc="name" tab='slug' visible="false"}}
+
+{{abe type="data" key="products" source="select title, cover_273x273,cover_566x253,cover_273x546, description from /articles where `abe_meta.template`=`single-product`" desc="Select 5 products from this list" display="{{title}}" max-length="5" reload="true" editable="false"}}
+
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""><![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" lang=""><![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" lang=""><![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="">
+<!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Example 4</title>
+  <link rel="stylesheet" href="/assets/css/app.min.css">
+  <!--link href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,400i,600,600i,700,700i" rel="stylesheet"-->
+</head>
+
+<body>
+  <section class="products relative">
+    <div class="row">
+      <h2>This is a title</h2>
+      <p class="description">This is a description about products introduced below</p>
+    </div>
+    <div class="row">
+      {{#eachGroup products layouts}}
+        {{#with my}}
+          {{abe type='import' file='example4/block-1.html'}}
+        {{/with}}
+        {{#with ty}}
+          {{abe type='import' file='example4/block-2.html'}}
+        {{/with}}
+      {{/eachGroup}}
+    </div>
+  </section>
+</body>
+</html>

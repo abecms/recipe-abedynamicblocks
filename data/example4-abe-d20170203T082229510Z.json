@@ -1,0 +1,104 @@
+{
+  "abe_meta": {
+    "template": "example4",
+    "link": "/example4.html",
+    "date": "2017-02-03T08:22:29.510Z",
+    "latest": {
+      "date": "2017-02-03T08:22:29.510Z",
+      "abeUrl": "/example4-abe-d20170203T082229510Z.html"
+    },
+    "status": "draft",
+    "draft": {
+      "latest": {
+        "date": "2017-02-03T08:22:29.510Z",
+        "abeUrl": "/example4-abe-d20170203T082229510Z.html"
+      },
+      "date": "2017-02-03T08:22:29.510Z",
+      "abeUrl": "/example4-abe-d20170203T082229510Z.html"
+    },
+    "complete": "100"
+  },
+  "name": "example4",
+  "products": [
+    {
+      "title": "product 5",
+      "cover_273x273": "/image/gingerbread-996a-9945_273x273.jpg",
+      "cover_566x253": "/image/gingerbread-996a-9945_566x253.jpg",
+      "cover_273x546": "/image/gingerbread-996a-9945_273x546.jpg",
+      "description": "product 5 description",
+      "abe_meta": {
+        "date": "2017-02-03T06:55:17.058Z",
+        "type": null,
+        "link": "/articles/product5.html",
+        "template": "single-product",
+        "cleanName": "product5",
+        "cleanFilename": "/articles",
+        "status": "publish"
+      }
+    },
+    {
+      "title": "product 6",
+      "cover_273x273": "/image/rasperry-8e38-0012_273x273.jpg",
+      "cover_566x253": "/image/rasperry-8e38-0012_566x253.jpg",
+      "cover_273x546": "/image/rasperry-8e38-0012_273x546.jpg",
+      "description": "product 6 description",
+      "abe_meta": {
+        "date": "2017-02-03T06:54:56.687Z",
+        "type": null,
+        "link": "/articles/product6.html",
+        "template": "single-product",
+        "cleanName": "product6",
+        "cleanFilename": "/articles",
+        "status": "publish"
+      }
+    },
+    {
+      "title": "product 2",
+      "cover_273x273": "/image/christmas-cookies-8d00-7d13_273x273.jpg",
+      "cover_566x253": "/image/christmas-cookies-8d00-7d13_566x253.jpg",
+      "cover_273x546": "/image/christmas-cookies-8d00-7d13_273x546.jpg",
+      "description": "z product 2 description",
+      "abe_meta": {
+        "date": "2017-01-27T13:19:58.877Z",
+        "type": null,
+        "link": "/articles/product2.html",
+        "template": "single-product",
+        "cleanName": "product2",
+        "cleanFilename": "/articles",
+        "status": "publish"
+      }
+    },
+    {
+      "title": "product 3",
+      "cover_273x273": "/image/cinammon-40b2_273x273.jpg",
+      "cover_566x253": "/image/cinammon-40b2_566x253.jpg",
+      "cover_273x546": "/image/cinammon-40b2_273x546.jpg",
+      "description": "product 3 description",
+      "abe_meta": {
+        "date": "2017-01-12T03:06:14.832Z",
+        "type": null,
+        "link": "/articles/product3.html",
+        "template": "single-product",
+        "cleanName": "product3",
+        "cleanFilename": "/articles",
+        "status": "publish"
+      }
+    },
+    {
+      "title": "product 4",
+      "cover_273x273": "/image/egg-6a2e-49f1_273x273.jpg",
+      "cover_566x253": "/image/egg-6a2e-49f1_566x253.jpg",
+      "cover_273x546": "/image/egg-6a2e-49f1_273x546.jpg",
+      "description": "product 4 description",
+      "abe_meta": {
+        "date": "2017-01-12T03:01:06.534Z",
+        "type": null,
+        "link": "/articles/product4.html",
+        "template": "single-product",
+        "cleanName": "product4",
+        "cleanFilename": "/articles",
+        "status": "publish"
+      }
+    }
+  ]
+}
